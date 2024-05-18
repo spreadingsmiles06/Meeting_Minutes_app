@@ -1,3 +1,5 @@
 openai
 python-docx
 streamlit
+python-docx 
+streamlit-mic-recorder

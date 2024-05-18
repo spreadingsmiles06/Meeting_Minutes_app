@@ -3,3 +3,4 @@ python-docx
 streamlit
 python-docx 
 streamlit-mic-recorder
+openai==0.28
